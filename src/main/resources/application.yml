@@ -5,5 +5,5 @@
 spring:
     profiles:
       active: dev
-    application:
-      name: Spring Boot 2.1 Demo
+
+
