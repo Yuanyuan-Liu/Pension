@@ -1,13 +1,16 @@
 package com.circle.pension.model.jpa;
 
-import lombok.Builder;
-import lombok.Data;
+import lombok.*;
+
 import javax.persistence.*;
 
 @Entity
 @Table(name = "area_month_pension")
-@Data
+@Getter
+@Setter
 @Builder
+@AllArgsConstructor
+@NoArgsConstructor
 public class Pension {
 
     @Id

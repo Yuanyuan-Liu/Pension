@@ -9,6 +9,7 @@ package com.circle.pension.common.enums;
  * @return
  */
 public enum ResultStatusCode {
+
     OK(200, "OK"),
     HTTP_ERROR_100(100, "1XX错误"),
     HTTP_ERROR_300(300, "3XX错误"),

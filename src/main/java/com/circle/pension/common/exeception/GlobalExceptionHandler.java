@@ -87,7 +87,7 @@ public class GlobalExceptionHandler {
 
     /**
      * 其他全局异常在此捕获
-     * @param e
+     * @param
      * @return
      */
     @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)

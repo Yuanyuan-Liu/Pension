@@ -5,7 +5,7 @@ import com.circle.pension.common.enums.ResultStatusCode;
 
 /**
  * Restful接口返回的数据模型
- * @author
+ * @author 李灿峰
  *
  */
 public class Result {
