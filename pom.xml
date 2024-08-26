@@ -22,7 +22,7 @@
         <!-- 其他公共属性自动继承 spring-boot-starter-parent 配置 -->
         <project.version>1.0.0</project.version>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <swagger2.version>2.9.2</swagger2.version>
+        <swagger2.version>2.10.0</swagger2.version>
         <pagehelper.version>1.2.10</pagehelper.version>
         <druid.version>1.1.14</druid.version>
         <common-lang3.version>3.8.1</common-lang3.version>
